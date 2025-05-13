@@ -74,6 +74,12 @@ New-MgServicePrincipalAppRoleAssignedTo -ServicePrincipalId $erpServicePrincipal
 > -  As conditional access can be passed through the finance and operations login to SharePoint, you should ensure that conditional access settings for SharePoint are applied to finance and operations.
 > -  Calling SharePoint as a user that isn't the currently logged-in user is no longer supported.
 
+**Enhancing Security in Dynamics 365 Finance & Operations for the SharePoint Setup (Optional)**
+you can secure sharePoint using granular permission model using Sites.Selected, indstaed of using Sites.ReadWrite.All. for instructions/details, please follow the next link.
+
+https://community.dynamics.com/blogs/post/?postid=c6460711-0730-f011-8c4e-7c1e52165747
+
+
 ### Setting up SharePoint inside your finance and operations environment
 
 To configure SharePoint storage, follow these steps.
