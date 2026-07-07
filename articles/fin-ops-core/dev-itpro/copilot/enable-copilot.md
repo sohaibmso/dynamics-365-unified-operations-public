@@ -63,8 +63,8 @@ The following table lists the Dynamics 365 apps that must be present in your Pow
 | Copilot feature | Required Dynamics 365 app |
 |---|---|
 | Generative help and guidance and the bot for the Copilot sidecar | Copilot for finance and operations apps |
-| Copilot summaries in Supply Chain Management and Copilot summaries in Commerce | Copilot in Dynamics 365 Supply Chain Management |
-| Copilot summaries in Finance | Copilot in Dynamics 365 Finance |
+| Copilot summaries in Supply Chain Management and Copilot summaries in Commerce | Copilot in Microsoft Dynamics 365 Supply Chain Management |
+| Copilot summaries in Finance | Copilot in Microsoft Dynamics 365 Finance |
 
 Usually, all the required apps are already installed in your environment. However, if you only recently enabled Power Platform Integration for your environment, or if you're running a government cloud version of your finance and operations apps, the apps might not yet be installed.
 
